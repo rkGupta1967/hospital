@@ -1,0 +1,388 @@
+.navContainer {
+
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    height: 3rem;
+}
+
+.navAn {
+
+    margin: 1rem;
+    padding: .2rem;
+    text-decoration: none;
+    font-size: 1.2rem;
+    position: relative;
+    left: 5rem;
+    color: #00b6cb;
+    font-weight: bold;
+}
+
+.navAnSide {
+    text-decoration: none;
+    font-size: 1.2rem;
+    position: relative;
+    left: 16.5rem;
+    top: .4rem;
+    background-color: #00b6cb;
+    border-radius: 2rem;
+    padding: .4rem;
+    color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.navAnSide:hover {
+    color: white;
+    text-decoration: none;
+    background-color: #144ee1;
+    text-decoration: black
+}
+
+.doctorIcon {
+    color: #4878f1;
+    font-size: 2rem;
+    position: relative;
+    right: 15rem;
+    top: .5rem;
+}
+
+/* container 1 all section */
+.container1 {
+
+    height: 28rem;
+    margin-top: .1rem;
+    background-color: #f7f7f7;
+}
+
+.container1Div {
+
+    width: 45%;
+    height: 25rem;
+    text-align: center;
+    margin: .7rem 0rem 0rem .4rem;
+    margin-left: 5rem;
+}
+
+.header1 {
+    font-size: 2.8rem;
+    width: 80%;
+    position: relative;
+    left: 6rem;
+    top: 1rem;
+}
+
+.pera1 {
+    width: 80%;
+    position: relative;
+    left: 6rem;
+    top: 1rem;
+    font-size: 1.2rem;
+}
+
+.a1 {
+    border-radius: 5rem;
+    background-color: #144ee1;
+    color: white;
+    padding: .5rem;
+    text-decoration: none;
+    position: relative;
+    top: 2rem;
+    padding-right: 5rem;
+    padding-left: 5rem;
+}
+
+.a1:hover {
+    color: black;
+    background-color: rgb(22, 245, 29);
+}
+
+.img1 {
+    width: 31%;
+    height: 24rem;
+    position: relative;
+    left: 55rem;
+    bottom: 25rem;
+    background-size: cover;
+    border-radius: 2rem;
+    justify-content: center;
+}
+
+/* container 2 all section */
+
+.container2 {
+
+    height: 30rem;
+    margin-top: .1rem;
+}
+
+.img2 {
+    width: 32%;
+    height: 27rem;
+    position: relative;
+    left: 10rem;
+    background-size: cover;
+    text-align: center;
+    margin: 1rem;
+}
+
+.container2text {
+
+    width: 45%;
+    height: 25rem;
+    text-align: center;
+    position: relative;
+    left: 40rem;
+    bottom: 28rem;
+}
+
+.header2 {
+    font-size: 2.8rem;
+    width: 80%;
+    position: relative;
+    left: 4rem;
+}
+
+.headertwo {
+    width: 100%;
+    color: #00b6cb;
+    position: relative;
+    right: 12rem;
+}
+
+.pera2 {
+    width: 80%;
+    position: relative;
+    left: 4rem;
+    font-size: 1.2rem;
+}
+
+.a2 {
+
+    border-radius: 5rem;
+    background-color: #144ee1;
+    color: white;
+    padding: .5rem;
+    text-decoration: none;
+    position: relative;
+    top: 1rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.a2:hover {
+    color: black;
+    background-color: rgb(22, 245, 29);
+}
+
+/* container 3 all section */
+
+.container3 {
+
+    width: 100%;
+    height: 32rem;
+    text-align: center;
+
+
+}
+
+.header3 {
+
+    font-size: 2rem;
+    width: 100%;
+    text-align: center;
+
+}
+
+.pera3 {
+
+    width: 100%;
+    text-align: center;
+    font-size: 1.2rem;
+
+}
+
+.container3text {
+
+    width: 45%;
+    position: relative;
+    left: 3rem;
+    top: 2rem;
+
+}
+
+.container3Box {
+
+    width: 55%;
+    position: relative;
+    bottom: 10rem;
+    left: 30rem;
+
+}
+
+.box1 {
+    text-decoration: none;
+    display: inline-table;
+    width: 32%;
+    height: 15rem;
+    margin-left: 17rem;
+    background-color: #00b6cb;
+    text-align: left;
+    padding-left: .5rem;
+
+}
+
+.box2 {
+    display: inline-table;
+    width: 32%;
+    height: 15rem;
+    text-decoration: none;
+    text-align: left;
+    padding-left: .5rem;
+}
+
+.box3 {
+    display: inline-table;
+    width: 32%;
+    height: 15rem;
+    background-color: #00b6cb;
+    text-decoration: none;
+    text-align: left;
+    padding-left: .5rem;
+}
+
+.box4 {
+    display: inline-table;
+    width: 32%;
+    height: 15rem;
+    text-decoration: none;
+    text-align: left;
+    padding-left: .5rem;
+}
+
+.box5 {
+    display: inline-table;
+    width: 32%;
+    height: 15rem;
+    background-color: #00b6cb;
+    text-decoration: none;
+    text-align: left;
+    padding-left: .5rem;
+}
+
+.boxAn {
+    text-decoration: none;
+}
+
+.BoxTooth {
+    width: 100%;
+    font-size: larger;
+    color: hsl(186, 56%, 34%);
+}
+
+.boxArrow {
+    width: 100%;
+    position: relative;
+    top: 3.5rem;
+    color: black;
+}
+
+/* container 4 all section */
+.container4 {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    height: 28rem;
+    padding-top: 1.5rem;
+    background-color: #f2ffff;
+
+}
+
+.header4 {
+    font-size: 2rem;
+    font-weight: bolder;
+    position: relative;
+    bottom: 1rem;
+
+}
+
+/* container 5 all section  */
+.container5 {
+    height: 20rem;
+    background-color: rgb(8, 182, 217);
+    margin-top: 2rem;
+    text-align: center
+}
+
+.header5 {
+    color: white;
+    font-size: 1.5rem;
+    position: relative;
+    top: 4rem;
+}
+
+.a5 {
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    padding: .7rem;
+    border-radius: 4rem;
+    font-size: 1.5rem;
+    position: relative;
+    left: 1.3rem;
+}
+
+.a5Second {
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    padding: .7rem;
+    border-radius: .3rem;
+    font-size: 1.5rem;
+    border-radius: 4rem;
+
+}
+
+.a5Text {
+    position: relative;
+    top: 5rem;
+    margin: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.OrClass {
+    background-color: white;
+    color: black;
+    border-radius: 100%;
+    padding: .3rem;
+    position: relative;
+    top: .3rem;
+    left: .7rem;
+}
+
+.header3Box1 {
+    color: black;
+    position: relative;
+    top: 1rem;
+}
+
+.pera1Box1 {
+    color: black;
+    position: relative;
+    top: 1rem;
+}
+
+
+/* footer all section */
+
+
+.footerLast {
+    font-size: 1rem;
+}
+
+.textSize {
+    font-size: 1rem;
+
+
+}
